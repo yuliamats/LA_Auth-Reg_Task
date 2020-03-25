@@ -1,0 +1,5 @@
+id=1 login=vasay password=1234 name=vasiliy surname=ivanov role=admin
+id=2 login=qqq password=www name=petr surname=petrov role=reader
+id=3 login=vld password=bbb name=vlad surname=ivanov role=reader
+id=4 login=dkl password=yty name=vita surname=ivanova role=reader 
+id=5 login=yyr password=ytr name=irina surname=ivanova role=reader 
